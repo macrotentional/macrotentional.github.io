@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What I can do for you
 ---
 
-My name is Martin Campbell. I have the following qualities:
+I'm a product designer in Madison, Wisconsin who's enthusiastic about creative problem-solving in a mobile-first ecosystem. I was born in Illinois, lived in Germany for a few years, and attended college in Iowa. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+When I’m not crafting user-centric design, I can be found jogging around town, exploring nature, checking out the latest concerts, or staying in and cooking up a storm.
 
-What else do you need?
+Other career passions include marketing analytics, information architecture, and machine learning.
 
-### my history
+### Interested in working together?
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Shoot me a message on [LinkedIn](http://linkedin.com/in/marcamp%29) or at [macrotentional@gmail.com](mailto:macrotentional@gmail.com). 
+
+I’m always down for solving a design challenge!

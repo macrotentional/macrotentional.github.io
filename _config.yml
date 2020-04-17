@@ -20,7 +20,7 @@ description: product design x data science
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "twitter.com/macrotentional"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
